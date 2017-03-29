@@ -1,0 +1,1 @@
+var randomnumber=Math.random()*5;importScripts('//cdn.izooto.com/scripts/workers/2734410677a5bab3c9d09774226ccd8f0e6b4e0a.js?'+randomnumber);
